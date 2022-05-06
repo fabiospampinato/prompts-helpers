@@ -2,7 +2,7 @@
   "name": "prompts-helpers",
   "repository": "github:fabiospampinato/prompts-helpers",
   "description": "Collection of convenience helpers for Prompts.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
