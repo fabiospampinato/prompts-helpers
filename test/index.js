@@ -1,8 +1,8 @@
 
 /* IMPORT */
 
-const delay = require ( 'promise-resolve-timeout' );
-const {default: Prompts} = require ( '../dist' );
+import {setTimeout as delay} from 'node:timers/promises';
+import Prompts from '../dist/index.js';
 
 /* MAIN */
 

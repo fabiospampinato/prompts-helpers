@@ -147,7 +147,7 @@ const PromptsHelpers = {
 
   },
 
-  spinner: ( message: string ): Spinner.type => {
+  spinner: ( message: string ): Spinner => {
 
     const spinner = new Spinner ();
 
