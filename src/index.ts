@@ -1,9 +1,9 @@
 
 /* IMPORT */
 
-import {isArray, isDate, isNumber, isString} from 'is';
 import prompts from 'prompts';
 import Spinner from 'tiny-spinner';
+import {isArray, isDate, isNumber, isString} from './utils';
 
 /* MAIN */
 
